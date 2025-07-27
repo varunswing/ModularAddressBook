@@ -35,12 +35,6 @@ public class PerformanceTest {
 
         // Demonstrate multi-word search optimization
         testMultiWordSearchOptimization(service);
-
-        System.out.println("\n=== CONCLUSION ===");
-        System.out.println("✅ Single word search: True O(1) performance");
-        System.out.println("✅ Multi-word search: O(1) per word + O(min_result_set) intersection");
-        System.out.println("✅ Search performance remains constant regardless of dataset size");
-        System.out.println("✅ Inverted index provides instant word lookups");
     }
 
     private static void testSearchPerformance(ContactService service, int numContacts) {
