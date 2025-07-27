@@ -1,0 +1,6 @@
+com/addressbook/controller/ContactController.class
+com/addressbook/service/ContactService.class
+com/addressbook/repository/ContactRepository.class
+com/addressbook/model/Contact.class
+com/addressbook/ModularAddressBookApplication.class
+com/addressbook/PerformanceTest.class

@@ -1,0 +1,3 @@
+com/addressbook/repository/ContactRepositoryTest.class
+com/addressbook/service/ContactServiceTest.class
+com/addressbook/controller/ContactControllerTest.class
